@@ -1,0 +1,15 @@
+{
+    "players": [
+        {"name": "hmics"},
+        {"name": "Joe"},
+        {"name": "Bob"}
+    ],
+    "chipValues": {
+        "Red": 0,
+        "White": 0,
+        "Blue": 0,
+        "Black": 0,
+        "Green": 0
+    },
+    "buy-in": 0
+}

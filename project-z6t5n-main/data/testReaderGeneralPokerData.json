@@ -1,0 +1,14 @@
+{
+    "players": [
+        {"name": "Alice"},
+        {"name": "Bob"}
+    ],
+    "chipValues": {
+        "Red": 0.5,
+        "White": 0.25,
+        "Blue": 1,
+        "Black": 5,
+        "Green": 2.5
+    },
+    "buy-in": 20
+}
